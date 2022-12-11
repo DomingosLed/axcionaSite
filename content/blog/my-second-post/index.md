@@ -10,4 +10,6 @@ chicken eggs, though the taste and texture will be somewhat different, and the
 egg yolk will be less rich."?
 ([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
 
-Yeah, I didn't either222.
+Yeah, I didn't either.
+
+automatic deploys ...IT WORKS
