@@ -8118,9 +8118,9 @@
     "fs-monkey" "^1.0.3"
 
 "memoize-one@^4.0.0":
-  "integrity" "sha512-2GApq0yI/b22J2j9rhbrAlsHb0Qcz+7yWxeLG8h+95sl1XPUgeLimQSOdur4Vw7cUhrBHwaUZxWFZueojqNRzA=="
-  "resolved" "https://registry.npmjs.org/memoize-one/-/memoize-one-4.1.0.tgz"
-  "version" "4.1.0"
+  "integrity" "sha512-QmpUu4KqDmX0plH4u+tf0riMc1KHE1+lw95cMrLlXQAFOx/xnBtwhZ52XJxd9X2O6kwKBqX32kmhbhlobD0cuw=="
+  "resolved" "https://registry.npmjs.org/memoize-one/-/memoize-one-4.0.3.tgz"
+  "version" "4.0.3"
 
 "memoize-one@^5.0.0", "memoize-one@>=3.1.1 <6":
   "integrity" "sha512-zYiwtZUcYyXKo/np96AGZAckk+FWWsUdJ3cHGGmld7+AhvcWmQyGCYUh1hc4Q/pkOhb65dQR/pqCyK0cOaHz4Q=="
